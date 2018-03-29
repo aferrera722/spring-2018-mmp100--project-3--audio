@@ -11,7 +11,7 @@ For this project, you’ll create a 90-second audio collage using Audacity that 
 [http://mmp.bmcc.cuny.edu/angel.ferrera/spring-2018/mmp-100/project-3/](http://mmp.bmcc.cuny.edu/angel.ferrera/spring-2018/mmp-100/project-3/)
 
 ### Description
-Your description goes here.
+A beat made off various different sounds and samples, not much to it.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
